@@ -1,4 +1,4 @@
-# Predicting-countries-sp-rating
+# Predicting country's S&P rating
 
 #### <B>Note</B>
 
